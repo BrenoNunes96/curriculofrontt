@@ -1,0 +1,328 @@
+.container{
+width:100%;
+height: 776px;
+background-image: url('./../Imagem/night-photograph-2183637_1280.jpg');
+margin-top: -70px;
+
+}
+.html{
+    border-radius: 20px;
+    width: 60px;
+    height: 60px;
+    margin-left: -800;
+    margin-top: -77px;
+    
+}
+.fundo3{
+    width: 300px;
+    margin-left: -550px;
+    margin-top: 40px;
+    display:grid;
+
+}
+
+.fundo{
+    background-size: cover;
+    width: 800px;
+    height: 500px;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-left: 400px;
+    margin-top: 70px;
+    border-radius: 20px;
+    display: flex;
+    backdrop-filter: blur(2px);
+    box-shadow: 14px 2px 20px rgb(0, 0, 0);
+
+
+}
+.Breno{
+    color: rgb(252, 252, 252);
+font-family: Arial, Helvetica, sans-serif;
+}
+.bola1{
+    margin-top: 15px;
+margin-left: 14px;
+    width: 18px;
+    height: 18px;
+    background-color: rgb(175, 28, 28);
+    border-radius: 20px;
+    
+}
+
+
+.bola2{
+    margin-top: 15px;
+margin-left: 14px;
+    width: 18px;
+    height: 18px;
+    background-color: rgb(206, 193, 10);
+    border-radius: 20px;
+    
+}
+
+.bola3{
+    margin-top: 15px;
+margin-left: 14px;
+    width: 18px;
+    height: 18px;
+    background-color: rgb(52, 175, 28);
+    border-radius: 20px;
+    
+}
+.habilidades{
+color:rgb(255, 255, 255);
+
+}
+p{
+    margin-left: 200px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-shadow: 2px 2px 20px rgb(5, 110, 230);
+}
+
+.Fundo2{
+    width: 328px;
+    height:500px;
+    position: absolute;
+    top: 60%;
+    left:60%;
+    transform: translate(-50%, -50%);
+    text-align:right; /* centraliza o conteúdo dentro de fundo2 */
+   
+    
+  }
+
+.design{
+    height:8px;
+    border-radius: 20px;
+    width: 200px;
+    background: rgb(255, 255, 255);
+    box-shadow: 2px 2px 20px blue;
+    margin-left: 20px;
+    margin-top: 40px;
+    cursor:pointer;
+    transition: transform 0.3s;
+ 
+
+}
+
+
+.design:hover {
+    transform: scale(1.2);
+box-shadow: 2px 2px 20px rgb(204, 31, 146);
+
+}
+.coluna1{
+    margin-top: 100px;
+    margin-left: -200px;
+    
+    
+
+}
+.design2{
+    height:8px;
+    border-radius: 20px;
+    width: 200px;
+    background: rgb(255, 255, 255);
+    box-shadow: 2px 2px 20px blue;
+    margin-left: 20px;
+    margin-top: 60px;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+.design2:hover {
+    transform: scale(1.2);
+    box-shadow: 2px 2px 20px rgb(204, 31, 146);
+  
+    }
+.design3{
+    height:8px;
+    border-radius: 20px;
+    width: 200px;
+    background: rgb(255, 255, 255);
+    box-shadow: 2px 2px 20px blue;
+    margin-left: 20px;
+    margin-top: 50px;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+.design3:hover {
+    transform: scale(1.2);
+    box-shadow: 2px 2px 20px rgb(204, 31, 146);
+   
+    
+    }
+
+
+
+.design4{
+    height:8px;
+    border-radius: 20px;
+    width: 150px;
+    background: rgb(255, 255, 255);
+    box-shadow: 2px 2px 20px blue;
+    margin-left: 20px;
+    margin-top: 50px;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+.design4:hover {
+    transform: scale(1.2);
+
+    box-shadow: 2px 2px 20px rgb(204, 31, 146);
+    
+    }
+.designx{
+    height:8px;
+    border-radius: 20px;
+    width: 178px;
+    background: rgb(255, 255, 255);
+    box-shadow: 2px 2px 20px blue;
+    margin-left: 20px;
+    margin-top: 50px;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+.designx:hover {
+    transform: scale(1.2);
+    box-shadow: 2px 2px 20px rgb(204, 31, 146);
+    
+    
+    }
+
+
+.logos{
+    margin-left: -110px;
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+     box-shadow: 2px 2px 20px blue;
+     transition: transform 0.3s;
+    
+}
+
+
+.fundo4{
+ display: flex;
+ margin-left: -600px;
+ margin-top: 70px;
+}
+.logo{
+    transition: transform 0.3s;
+    margin-top: 180px;
+    margin-left: -110px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 20px blue;
+    width: 100px;
+    height: 100px;
+}
+
+.logosx{
+  
+    margin-top: 400px;
+    margin-left: -110px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 20px blue;
+    transition: transform 0.3s;
+    width: 100px;
+    height: 100px;}
+
+.logosx:hover{
+    transform: scale(1.2);
+    box-shadow: 2px 2px 20px red;
+    cursor: pointer;transform: scale(1.2)
+}
+
+.logos:hover{
+
+    box-shadow: 2px 2px 20px red;
+    cursor: pointer;
+    transform: scale(1.2)
+}
+
+
+
+
+.logosx:hover{
+    box-shadow: 2px 2px 20px rgb(255, 5, 5);
+    cursor: pointer;
+    transform: scale(1.2)
+}
+
+.logo:hover{transform: scale(1.2);
+    box-shadow: 2px 2px 20px rgb(240, 0, 0);
+    cursor: pointer;
+
+}
+
+.barra{
+    width: 200px;
+    height: 50px;
+    background-color: white;
+    margin-top: 600px;
+    margin-left: 290px;
+    border-radius: 20px;
+
+}
+
+.opera{
+    transition: transform 0.3s;
+    margin-top: 2px;
+    margin-left: 5px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 20px blue;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+.opera:hover{
+    box-shadow: 2px 2px 20px white;
+    transform: scale(1.2)
+}
+
+.filme{
+    transition: transform 0.3s;
+    margin-top: 2px;
+    margin-left: 8px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 20px blue;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.filme:hover{  box-shadow: 2px 2px 20px white;
+    transform: scale(1.2)
+}
+.todo{
+    transition: transform 0.3s;
+    margin-top: 2px;
+    margin-left: 10px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 20px blue;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.todo:hover{
+    box-shadow: 2px 2px 20px white;
+    transform: scale(1.2)
+}
+.ciclic{
+    transition: transform 0.3s;
+    margin-top: 2px;
+    margin-left: 10px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 20px blue;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+
+}
+.ciclic:hover{
+    transform: scale(1.2);
+    box-shadow: 2px 2px 20px white;
+    
+}
